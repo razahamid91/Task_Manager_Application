@@ -11,6 +11,7 @@ This Task Management Application allows users to manage tasks with basic CRUD op
     ```bash
     cd task_manager
      npm install
+    npm install axios react-router-dom
   ```bash
   npm run dev
    ```
@@ -20,6 +21,8 @@ This Task Management Application allows users to manage tasks with basic CRUD op
     ```bash
     cd server
     npm install
+    npm init -y
+    npm install express mysql2 cors body-parser
 
  ### Running the backend
  ```bash
