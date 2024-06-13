@@ -4,7 +4,7 @@ This Task Management Application allows users to manage tasks with basic CRUD op
 
 . Clone the repository
  ```bash
-    git clone https://github.com/razahamid91/Task_Manager
+    git clone https://github.com/razahamid91/Task_manager_Application.git
  ```
 
 2. Navigate to the project directory
